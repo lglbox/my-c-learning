@@ -1,13 +1,13 @@
 /*
 关键字：
-题目描述：定义一个能显示字符串smile！一次的函数，并在需要的时候使用该函数。
+题目描述：定义一个能显示字符串smile！一次的函数，并在需要的时候使用该函数
 */
 #include <stdio.h>
 
 void smile(void);
 int main (void)
 {
-  smile();smile();smile();
+ 	smile();smile();smile();
 	printf("\n");
 	smile();smile();
 	printf("\n");
